@@ -10,7 +10,7 @@ nomes.forEach((nome) => {
     console.log(nome)
 })
 
-// Função
+// Função Externa
 function imprimeNome(nome) {
     console.log(nome)
 }
